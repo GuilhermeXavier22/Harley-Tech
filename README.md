@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Harley Tech
+
+# Projeto desenvolvido durante o Hackathon MYTIA
+
+Uma dashboard interativa para análise de orçamentos de peças gerados automaticamente durante ligações com a IA.
+
+Além disso, os leads são exibidos na interface, permitindo um acompanhamento eficiente e facilitando o contato futuro com os clientes.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
