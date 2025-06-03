@@ -5,6 +5,18 @@
 Uma dashboard interativa para análise de orçamentos de peças gerados automaticamente durante ligações com a IA.
 
 Além disso, os leads são exibidos na interface, permitindo um acompanhamento eficiente e facilitando o contato futuro com os clientes.
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Getting Started with Create React App
 
