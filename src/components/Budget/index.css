@@ -1,0 +1,76 @@
+.orcamento-card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 24px;
+  max-width: 700px;
+  margin: 20px auto;
+  font-family: sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.orcamento-card h2 {
+  margin-bottom: 16px;
+  font-size: 22px;
+}
+
+.orcamento-info p {
+  margin: 4px 0;
+}
+
+.tabela-pecas {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.tabela-pecas th,
+.tabela-pecas td {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.orcamento-total {
+  margin-top: 10px;
+  text-align: right;
+  font-size: 18px;
+}
+
+.orcamento-extra {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.disponivel {
+  color: green;
+  font-weight: bold;
+}
+
+.orcamento-botoes {
+  display: flex;
+  gap: 12px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+  justify-content: end;
+}
+
+.btn-aprovar {
+  background-color: var(--primary-orange);
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-rejeitar {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #ccc;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}

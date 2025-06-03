@@ -1,0 +1,52 @@
+.table-container {
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.orders-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  margin-top: 22px;
+}
+
+.orders-table th,
+.orders-table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.orders-table th {
+  background-color: #e5e5e5;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--primary-orange);
+}
+
+.status-aceito {
+  color: green;
+  font-weight: bold;
+}
+
+.status-recusado {
+  color: red;
+  font-weight: bold;
+}
+
+.status-pendente {
+  color: blue;
+  font-weight: bold;
+}
+
+td.link:hover {
+  text-decoration: underline;
+}
+
+td.link a {
+  color: black;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

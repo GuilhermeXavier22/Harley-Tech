@@ -1,0 +1,25 @@
+.harley-header {
+  background-color: black;
+  padding: 16px 24px;
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); */
+  border-bottom: 1px solid #e1e1e1;
+  display: flex;
+  justify-content: center;
+}
+
+.harley-title {
+  margin: 0;
+  color: var(--primary-orange); /* Laranja Harley-Davidson */
+  font-size: 32px;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  width: fit-content;
+}
+
+.harley-title:hover {
+  opacity: 85%;
+}
